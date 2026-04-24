@@ -1,0 +1,7 @@
+{
+  "model_file": "/home/ppymz1/codes/jax/plotting/saved-models/model-13041741.pth",
+  "export_timestamp": "2026-04-24T16:45:09",
+  "global_rel_l2": 1.1858440720983475e-07,
+  "epochs_adam": 10000,
+  "checkpoint_interval": 1
+}
